@@ -5,8 +5,9 @@
 __pycache__
 db.sqlite3
 media
-puddl/puddl/settings.py
+settings.py
 settings
+
 
 # Backup files # 
 *.bak 
