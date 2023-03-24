@@ -2,6 +2,7 @@
 {% block title %} {{title}} {% endblock %}
 
 {% block content%}
+<div class="bg-teal-100">
 <h1 class="mb-6 text-3xl">{{title}}</h1>
 
 <form method="post" action="." enctype="multipart/form-data">
@@ -23,6 +24,5 @@
 
         <button class="mt-6 py-4 px-8 text-lg bg-teal-500 hover:bg-teal-700 rounded-xl text-white">Submit</button>
 </form>
-
-
+<div>
 {% endblock %}
