@@ -5,11 +5,12 @@ Welcome
 {% endblock %} 
 
 {% block content%}
+
 <div class="mt-6 px-6 py-12 bg-teal-100 rounded-xl">
     <h2 class="mb-12 text-2xl text-center">Newest Items</h2>
     <div class="grid grid-cols-3 gap-3">
         {% for item in items %}
-        <div>
+        <div class="bg-white  flex justify-center">
             <a href="{% url 'item:detail' item.id %}">
                 <div>
                     <img src="{{ item.image.url }}" alt="" class="rounded-t-xl">
