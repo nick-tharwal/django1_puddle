@@ -18,8 +18,8 @@ E-Commerce
 
 #  TECHNOLOGIES USED -
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.python.org/psf-landing/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="30" height="30"/> </a>
-  <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://sqlite.org/images/sqlite370_banner.gif" alt="SQL" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.python.org/psf-landing/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="70" height="30"/> </a>
+  <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://sqlite.org/images/sqlite370_banner.gif" alt="SQL" width="80" height="40"/> </a>
   
 
    
